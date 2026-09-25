@@ -1,0 +1,6 @@
+{
+  "name": "Online Complaint Management System",
+  "description": "Online Complaint Management System with voice-to-text complaint submission, AI category detection, department routing, and 4-step real-time progress tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
